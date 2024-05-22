@@ -1,0 +1,754 @@
+Abacavir and Lamivudine Film-coated Tablets (Kivexa)
+https://www.rxlist.com/kivexa-drug.htm
+
+
+
+
+
+
+
+WARNING
+Abacavir, a component of KIVEXA tablets, is associated with hypersensitivity reactions, which can be life-threatening, and in rare cases fatal. KIVEXA tablets, or any other medicinal product containing abacavir (TRIUMEQ, TRIZIVIR and ZIAGEN), MUST NEVER be restarted following a hypersensitivity reaction (see Section WARNINGS AND PRECAUTIONS and Section ADVERSE REACTIONS).
+
+
+Description for Kivexa
+List Of Excipients
+Tablet Core
+magnesium stearate
+microcrystalline cellulose
+sodium starch glycollate
+Tablet Coating
+Opadry Orange YS-1-13065-A contains:
+
+hypromellose
+titanium dioxide
+macrogol 400
+polysorbate 80
+sunset yellow FCF aluminium lake.
+
+Physicochemical Properties
+The chemical name of abacavir sulfate is (1S,cis)-4-[2-amino-6-(cyclopropylamino)-9H-purin-9-yl]-2-cyclopentene-1-methanol sulfate (salt) (2:1). Abacavir sulfate is the enantiomer with 1S, 4R absolute configuration on the cyclopentene ring. It has a molecular formula of (C14H18N6O)2•H2SO4 and a molecular weight of 670.76 daltons.
+The chemical name of lamivudine is (2R,cis)-4-amino-1-[2- (hydroxymethyl)-1,3-oxathiolan-5-yl]-2(1H)-pyrimidinone. Lamivudine is the (-)enantiomer of a dideoxy analogue of cytidine. Lamivudine has also been referred to as (-)2’,3’-dideoxy, 3’-thiacytidine. It has a molecular formula of C8H11N3O3S and a molecular weight of 229.3 daltons.
+Chemical Structure
+Abacavir sulfate has the following structural formula:
+
+
+
+
+
+
+
+
+
+
+
+Lamivudine has the following structural formula:
+
+
+
+
+
+
+
+
+
+
+
+CAS Number
+188062-50-2 (abacavir sulfate); 134678-17-4 (lamivudine)
+
+
+
+
+
+
+
+
+
+Uses for Kivexa
+Therapeutic
+ KIVEXA tablets are a combination of two nucleoside analogues (abacavir and lamivudine). KIVEXA is indicated in antiretroviral combination therapy for the treatment of Human Immunodeficiency Virus (HIV) infection in adults and adolescents from 12 years of age.
+Dosage for Kivexa
+KIVEXA is supplied as film-coated tablets each containing 600 mg of abacavir as abacavir sulfate and 300 mg lamivudine.
+Abacavir sulfate is a white to off-white crystalline powder with a solubility of approximately 77 mg/mL in water at 25°C.
+Lamivudine is a white to off-white crystalline solid which is highly soluble in water.
+For the full list of excipients, see Section DESCRIPTION.
+Dose And Method Of Administration
+Therapy should be initiated by a physician experienced in the management of HIV infection.
+KIVEXA tablets should not be administered to adults or adolescents who weigh less than 40 kg because it is a fixed-dose tablet that cannot be dose reduced.
+KIVEXA tablets can be taken with or without food.
+KIVEXA tablets should not be prescribed for patients requiring dosage adjustments, such as those with creatinine clearance < 50 mL/min. Separate preparations of abacavir (ZIAGEN) or lamivudine (3TC) should be administered in cases where discontinuation or dose adjustment is indicated. In these cases the physician should refer to the individual product information for these medicinal products.
+Adults And Adolescents
+The recommended dose of KIVEXA tablets in adults and adolescents is one tablet once daily.
+Elderly
+The pharmacokinetics of abacavir and lamivudine have not been studied in patients over 65 years of age. When treating elderly patients, consideration needs to be given to the greater frequency of decreased hepatic, renal and cardiac function, concomitant medicinal products or disease.
+Children
+KIVEXA tablets are not recommended for treatment of children less than 12 years of age as the necessary dose adjustment cannot be made. Physicians should refer to the individual product information for lamivudine and abacavir.
+Renal impairment Whilst no dosage adjustment of abacavir is necessary in patients with renal impairment, a dose reduction of lamivudine is required due to decreased clearance. Therefore, KIVEXA tablets are not recommended for use in patients with a creatinine clearance < 50 mL/min (see Section CLINICAL PHARMACOLOGY - Special populations).
+Hepatic Impairment
+A dose reduction of abacavir may be required for patients with mild hepatic impairment (Child-Pugh grade A). As dose reduction is not possible with KIVEXA tablets, the separate preparations of abacavir and lamivudine should be used when this is judged to be necessary. KIVEXA is not recommended in patients with moderate and severe hepatic impairment (Child-Pugh grade B or C) (see Section CLINICAL PHARMACOLOGY - Special populations).
+HOW SUPPLIED
+Dosage Forms And Strengths
+Orange, film-coated, modified capsule shaped tablets, debossed with GS FC2 on one side.
+Incompatibilities
+Incompatibilities were either not assessed or not identified as part of the registration of this medicine.
+Shelf Life
+In Australia, information on the shelf life can be found on the public summary of the ARTG. The expiry date can be found on the packaging.
+Special Precautions For Storage
+Store below 30°C in a dry place.
+Nature And Contents Of Container
+KIVEXA tablets are supplied in opaque white, polyvinyl chloride (PVC)/polyvinylidene chloride (PVdC) blister packs or in opaque white, PVC/PVdC child-resistant* blister packs. Each pack type contains 30 tablets.
+*complies with European Standard EN 14375:2003 Child-resistant Non-reclosable Packaging for Pharmaceutical Products - Requirements And Testing.
+Not all blister types may be distributed in Australia.
+Special Precautions For Disposal
+In Australia, any unused medicine or waste material should be disposed of by taking to your local pharmacy.
+Manufactured by: ViiV Healthcare Pty Ltd Level 4, 436 Johnston Street, Abbotsford, Victoria, 3067 Australia. Revised: April 2018
+
+
+
+
+
+
+
+
+
+
+Side Effects for Kivexa
+Adverse Reaction Overview
+The following adverse reactions are discussed in 3 SERIOUS WARNINGS AND PRECAUTIONS BOX and 7 WARNINGS AND PRECAUTIONS sections:
+
+Serious and sometimes fatal hypersensitivity reaction (see Hypersensitivity Reactions to Abacavir)
+Lactic acidosis and severe hepatomegaly (see Lactic Acidosis and Severe Hepatomegaly with Steatosis)
+Post-treatment exacerbations of hepatitis (see Post-Treatment Exacerbations of Hepatitis B)
+Myocardial infarction (see Cardiovascular)
+Serum lipids and blood glucose (see Endocrine and Metabolism)
+Immune reconstitution inflammatory syndrome (see Immune)
+
+Clinical Trial Adverse Reactions
+Because clinical trials are conducted under very specific conditions, the adverse reaction rates observed in the clinical trials may not reflect the rates observed in practice and should not be compared to the rates in the clinical trials of another drug. Adverse reaction information from clinical trials is useful for identifying drug-related adverse events and for approximating rates.
+Therapy-Naive Adults
+Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a ≥5% frequency during therapy with abacavir 600 mg once daily or abacavir 300 mg twice daily, both in combination with lamivudine 300 mg once daily and efavirenz 600 mg once daily, are listed in Table 2.
+Table 2 : Treatment-emergent Adverse Reactions of at Least Moderate Intensity (Grades 2-4) and ≥5% Frequency in Treatment-NaÃ¯ve Adults (CNA30021) Through 48 Weeks of Treatment
+
+
+
+
+Adverse Event
+Abacavir 600 mg q.d. plus Lamivudine plus Efavirenz
+			(n = 384)
+Abacavir 300 mg b.i.d. plus Lamivudine plus Efavirenz
+			(n = 386)
+
+
+Drug hypersensitivitya
+9%
+7%
+
+
+Insomnia
+7%
+9%
+
+
+Depression/Depressed mood
+7%
+7%
+
+
+Headache/Migraine
+5%
+5%
+
+
+Fatigue/Malaise
+5%
+8%
+
+
+Dizziness/Vertigo
+5%
+5%
+
+
+Nausea
+5%
+6%
+
+
+Diarrheaa
+5%
+6%
+
+
+Rash
+5%
+5%
+
+
+Pyrexia
+5%
+3%
+
+
+Abnormal dreams
+4%
+5%
+
+
+Anxiety
+3%
+5%
+
+
+aSubjects receiving abacavir 600 mg once daily, experienced a significantly higher incidence of severe drug hypersensitivity reactions and severe diarrhea compared with subjects who received abacavir 300 mg twice daily. Five percent (5%) of subjects receiving abacavir 600 mg once daily had severe drug hypersensitivity reactions compared with 2% of subjects receiving abacavir 300 mg twice daily. Two percent (2%) of subjects receiving abacavir 600 mg once daily had severe diarrhea while none of the subjects receiving abacavir 300 mg twice daily had this event.
+
+
+
+
+
+Other adverse reactions observed in clinical studies include neutropenia, anemia, thrombocytopenia, anorexia, hyperlactatemia, lactic acidosis, vomiting, pancreatitis, erythema multiforme, upper abdominal pain, transient rise in liver enzymes (AST, ALT, GGT), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN).
+Clinical Trial Adverse Reactions - Pediatrics
+The safety of once daily compared with twice daily dosing of abacavir and lamivudine was assessed in the ARROW study (COL105677). No additional safety issues were identified in pediatric patients (n=669) receiving abacavir and lamivudine either once (n=336) or twice daily dosing compared to adults. Within this population, 104 pediatric patients weighing at least 25 kg received abacavir and lamivudine once daily as KIVEXA.
+Less Common Clinical Trial Adverse Reactions
+One event of Grade 4 hepatitis in the once daily cohort was considered as uncertain causality by the investigator and all other Grade 3 or 4 adverse events were considered not related by the investigator.
+Abnormal Laboratory Findings: Hematologic, Clinical Chemistry And Other Quantitative Data Clinical Trial Findings
+Laboratory abnormalities (Grades 3-4) in therapy-naive adults during therapy with ZIAGEN 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily compared with zidovudine 300 mg twice daily, lamivudine 150 mg twice daily, and efavirenz 600 mg daily from CNA30024 are listed in Table 3. Additional laboratory abnormalities observed in clinical trials of 3TC were thrombocytopenia and elevated levels of bilirubin, amylase, and lipase.
+Table 3 : Laboratory Abnormalities (Grades 3-4) in Therapy-Naive Adults (CNA30024) Through 48 Weeks of Treatment
+
+
+
+
+Grade 3/4 Laboratory Abnormalities
+ZIAGEN plus Lamivudine plus Efavirenz
+			(n = 324)
+Zidovudine plus Lamivudine plus Efavirenz
+			(n = 325)
+
+
+Elevated CPK (>4 X ULN)
+8%
+8%
+
+
+Elevated ALT (>5 X ULN)
+6%
+6%
+
+
+Elevated AST (>5 X ULN)
+6%
+5%
+
+
+Hypertriglyceridemia (>750 mg/dL)
+6%
+5%
+
+
+Hyperamylasemia (>2 X ULN)
+4%
+5%
+
+
+Neutropenia (ANC <750/mm³)
+2%
+4%
+
+
+Anemia (Hgb ≤6.9 gm/dL)
+<1%
+2%
+
+
+Thrombocytopenia (Platelets <50,000/mm³)
+1%
+<1%
+
+
+Leukopenia (WBC ≤1,500/mm³)
+<1%
+2%
+
+
+ULN = Upper limit of normal
+			n = Number of subjects assessed
+
+
+
+
+
+In addition to the adverse events included from clinical trial data, the following adverse events listed below have been identified during post-approval use of abacavir and lamivudine, and/or KIVEXA.
+Post-Market Adverse Reactions
+These events have been chosen for inclusion due to either their seriousness, frequency of reporting, potential causal connection to abacavir and lamivudine, or a combination of these factors. Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Abacavir
+Endocrine/Metabolic: lactic acidosis (see WARNINGS AND PRECAUTIONS, Hepatic/Biliary/Pancreatic), hepatic steatosis
+Digestive: pancreatitis
+Immune System: Immune Reconstitution Inflammatory Syndrome (see WARNINGS AND PRECAUTIONS, Immune)
+Skin: rash, erythema multiforme, Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) (primarily in combination with medications known to be associated with SJS and TEN, respectively). Because of the overlap of the clinical signs and symptoms between hypersensitivity to abacavir, SJS and TEN and the possibility of multiple drug sensitivities in some patients, abacavir should be discontinued and not restarted in such cases.
+Lamivudine
+Body as a whole: anaphylaxis, weakness
+Hematological: pure red cell aplasia
+Hemic and Lymphatic: anemia, lymphadenophathy, splenomegaly
+Endocrine/Metabolic: lactic acidosis (see WARNINGS AND PRECAUTIONS, Hepatic/Biliary/Pancreatic), hyperlactatemia, hepatic steatosis, hyperglycemia
+Nervous: paresthesia, peripheral neuropathy
+Digestive: rises in serum amylase, pancreatitis, stomatitis
+Immune System: Immune Reconstitution Inflammatory Syndrome (see WARNINGS AND PRECAUTIONS, Immune)
+Skin: alopecia, pruritus, urticaria
+Musculoskeletal: muscle disorders including rarely rhabdomyolosis, arthralgia
+Description Of Abacavir Hypersensitivity Adverse Reactions
+Hypersensitivity
+The signs and symptoms of abacavir hypersensitivity reaction are listed below. These have been identified either from clinical studies or post marketing surveillance. Those reported in at least 10% of patients with a hypersensitivity reaction are in bold text.
+As described in Warnings and Precautions, almost all patients developing hypersensitivity reactions will have fever and/or rash (usually maculopapular or urticarial) as part of the syndrome, however, reactions have occurred without rash or fever. Other key symptoms include gastrointestinal, respiratory or constitutional symptoms such as lethargy and malaise.
+Skin: Rash (usually maculopapular or urticarial)
+Gastrointestinal tract: Nausea, vomiting, diarrhoea, abdominal pain, mouth ulceration
+Respiratory tract: Dyspnoea, cough, sore throat, adult respiratory distress syndrome, respiratory failure
+Miscellaneous: Fever, fatigue, malaise, oedema, lymphadenopathy, hypotension, conjunctivitis, anaphylaxis
+Neurological/Psychiatry: Headache, paraesthesia
+Hematological: Lymphopenia
+Liver/pancreas: Elevated liver function tests, hepatic failure
+Musculoskeletal: Myalgia, rarely myolysis, arthralgia, elevated creatine phosphokinase
+Urology: Elevated creatinine, renal failure
+Restarting abacavir following an abacavir HSR results in a prompt return of symptoms within hours. This recurrence of the HSR is usually more severe than on initial presentation, and may include lifethreatening hypotension and death. Reactions have also occurred infrequently after restarting abacavir in patients who had only one of the key symptoms of hypersensitivity (see above) prior to stopping abacavir; and on very rare occasions have also been seen in patients who have restarted therapy with no preceding symptoms of a HSR (i.e., patients previously considered to be abacavir tolerant).
+For details of clinical management in the event of a suspected abacavir HSR (see WARNINGS AND PRECAUTIONS, Clinical Management of Abacavir HSRs).
+
+
+
+
+
+
+
+
+
+
+
+Drug Interactions for Kivexa
+Drug Interactions Overview
+As KIVEXA contains abacavir and lamivudine, any interactions that have been identified with these agents individually may occur with KIVEXA. Clinical studies have shown that there are no clinically significant interactions between abacavir and lamivudine. Abacavir and lamivudine are not significantly metabolized by cytochrome P450 (CYP) enzymes (such as CYP2C9 or CYP2D6) nor do they induce this enzyme system. Lamivudine does not inhibit CYP enzymes. In vitro studies have shown that abacavir inhibits CYP1A1, shows limited potential to inhibit metabolism mediated by CYP3A4, and has been shown in vitro not to inhibit CYP2C9 or CYP2D6 enzymes. Therefore, there is little potential for interactions with antiretroviral protease inhibitors, non-nucleosides and other medicinal products metabolized by major CYP enzymes.
+The likelihood of metabolic interactions with lamivudine is low due to limited metabolism and plasma protein binding, and almost complete renal clearance. Lamivudine is predominantly eliminated by active organic cationic secretion. The possibility of interactions with other medicinal products administered concurrently should be considered, particularly when the main route of elimination is renal.
+Effect Of Abacavir On The Pharmacokinetics Of Other Agents
+In vitro, abacavir has been shown to inhibit CYP1A1, and to a limited degree CYP3A4. When coadministered with abacavir or abacavir-containing drugs, exposures to drugs that are substrates of CYP1A1 enzyme could increase.
+In vitro, abacavir demonstrates no or weak inhibition of the drug transporters organic anion transporter 1B1 (OATP1B1), OATP1B3, breast cancer resistant protein (BCRP) or P-glycoprotein (Pgp) and minimal inhibition of organic cation transporter 1 (OCT1), OCT2 and multidrug and toxin extrusion protein 2-K (MATE2-K). Abacavir is therefore not expected to affect the plasma concentrations of drugs that are substrates of these drug transporters.
+Abacavir is an inhibitor of MATE1 in vitro, however abacavir has low potential to affect the plasma concentrations of MATE1 substrates at therapeutic drug exposures (up to 600 mg).
+Effect Of Other Agents On The Pharmacokinetics Of Abacavir
+In vitro, abacavir is not a substrate of OATP1B1, OATP1B3, OCT1, OCT2, OAT1, MATE1, MATE2-K, Multidrug resistance-associated protein 2 (MRP2) or MRP4, therefore drugs that modulate these transporters are not expected to affect abacavir plasma concentrations.
+Although abacavir is a substrate of BCRP and Pgp in vitro, clinical studies demonstrate no clinically significant changes in abacavir pharmacokinetics when co-administered with lopinavir/ritonavir (Pgp and BCRP inhibitors).
+Effect Of Lamivudine On The Pharmacokinetics Of Other Agents
+In vitro, lamivudine demonstrates no or weak inhibition of the drug transporters OATP1B1, OATP1B3, BCRP or Pgp, MATE1, MATE2-K or OCT3. Lamivudine is therefore not expected to affect the plasma concentrations of drugs that are substrates of these drug transporters.
+Lamivudine is an inhibitor of OCT1 and OCT2 in vitro with IC50 values of 17 and 33 μM, respectively, however lamivudine has low potential to affect the plasma concentrations of OCT1 and OCT2 substrates at therapeutic drug exposures (up to 300 mg).
+Effect Of Other Agents On The Pharmacokinetics Of Lamivudine
+Lamivudine is a substrate of MATE1, MATE2-K and OCT2 in vitro. Trimethoprim (an inhibitor of these drug transporters) has been shown to increase lamivudine plasma concentrations, however this interaction is not considered clinically significant as no dose adjustment of lamivudine is needed.
+Lamivudine is a substrate of the hepatic uptake transporter OCT1. As hepatic elimination plays a minor role in the clearance of lamivudine, drug interactions due to inhibition of OCT1 are unlikely to be of clinical significance.
+Lamivudine is a substrate of Pgp and BCRP, however due to its high bioavailability it is unlikely that these transporters play a significant role in the absorption of lamivudine. Therefore co-administration of drugs that are inhibitors of these efflux transporters is unlikely to affect the disposition and elimination of lamivudine.
+Drug-Drug Interactions
+No drug interaction studies have been conducted with KIVEXA. The drugs listed in the following table are based on either drug interaction case reports or studies, or potential interactions due to the expected magnitude and seriousness of the interaction (i.e. those identified as contraindicated).
+Table 4 : Established or Potential Drug-Drug Interactions
+
+
+
+
+Abacavir Drug Interactions
+
+
+Proper name
+Effect
+Clinical comment
+
+
+Ethanol
+In men, the metabolism of abacavir sulfate is altered by concomitant ethanol resulting in an increase in AUC of abacavir of about 41%.
+The clinical significance of this is unknown. In men, abacavir sulfate has no effect on the metabolism of ethanol. This interaction has not been studied in women.
+
+
+Methadone
+In a pharmacokinetic study, coadministration of 600 mg abacavir twice daily with methadone showed a 35% reduction in abacavir Cmax and a one hour delay in tmax, but AUC was unchanged.
+The changes in abacavir pharmacokinetics are not considered clinically relevant. In this study, abacavir increased the mean methadone systemic clearance by 22%. This change is not considered clinically relevant for the majority of patients, however occasionally methadone dose retitration may be required.
+
+
+Retinoids
+
+Retinoid compounds, such as isotretinoin, are eliminated via alcohol dehydrogenase. Interaction with abacavir is possible but has not been studied.
+
+
+Riociguat
+In vitro, abacavir inhibits CYP1A1. Coadministration of a single dose of riociguat (0.5 mg) to HIV-1-infected subjects receiving fixed-dose TRIUMEQ (abacavir/dolutegravir/lamivudine once daily) resulted in approximately 3-fold higher riociguat AUC(0-∞) compared with historical riociguat AUC(0-∞) reported in healthy subjects, which may increase the risk of riociguat adverse reactions.
+KIVEXA and Adempas (riociguat) should be co-administered with caution. Riociguat dose may need to be reduced, consult the riociguat product labeling for dosing recommendations.
+
+
+Sorbitol
+Coadministration of sorbitol solution (3.2 g, 10.2 g, 13.4 g) with a single 300 mg dose of lamivudine oral solution resulted in dose-dependent decreases of 14%, 32%, and 36% in lamivudine exposure (AUC∞) and 28%, 52%, and 55% in the Cmax of lamivudine in adults.
+When possible, avoid chronic coadministration of sorbitol-containing medicines with lamivudine. Consider more frequent monitoring of HIV-1 viral load when chronic coadministration cannot be avoided.
+
+
+Trimethoprim
+Administration of trimethoprim/ sulphamethoxazole 160 mg/800 mg (co-trimoxazole) causes a 40% increase in lamivudine exposure because of the trimethoprim component.
+Unless the patient has renal impairment, no dosage adjustment of lamivudine is necessary (see 4 DOSAGE AND ADMINISTRATION). Lamivudine has no effect on the pharmacokinetics of trimethoprim or sulphamethoxazole. The effect of coadministration of lamivudine with higher doses of co-trimoxazole used for the treatment of Pneumocystis jiroveci pneumonia (often referred to as PCP) and toxoplasmosis has not been studied.
+
+
+Emtricitabine
+Lamivudine may inhibit the intracellular phosphorylation of emtricitabine when the two medicinal products are used concurrently. Additionally, the mechanism of viral resistance for both lamivudine and emtricitabine is mediated via mutation of the same viral reverse transcriptase gene (M184V) and therefore the therapeutic efficacy of these drugs in combination therapy may be limited.
+KIVEXA is not recommended for use in combination with emtricitabine or emtricitabine-containing fixed-dose combinations.
+
+
+
+
+
+Drug-Food Interactions
+KIVEXA can be taken with or without food (see CLINICAL PHARMACOLOGY).
+Drug-Herb Interactions
+Interactions with herbal products have not been established.
+Drug-Laboratory Test Interactions
+Interactions with laboratory tests have not been established.
+
+
+
+
+
+
+
+
+
+
+Warnings for Kivexa
+Included as part of the "PRECAUTIONS" Section
+Precautions for Kivexa
+Hypersensitivity
+Special Warning
+The special warnings and precautions relevant to both abacavir and lamivudine are included in this section. There are no additional precautions and warnings relevant to KIVEXA tablets.
+Hypersensitivity to abacavir (see Section ADVERSE REACTIONS). Hypersensitivity to abacavir is a multi-organ clinical syndrome which can occur at any time during treatment, but most often occurs within the first 6 weeks of therapy. Signs or symptom usually present in 2 or more of the following groups although hypersensitivity following the presentation of a single sign or symptom has been reported infrequently.
+
+fever
+rash
+gastrointestinal, including nausea, vomiting, diarrhoea, or abdominal pain
+constitutional, including generalized malaise, fatigue, or achiness
+respiratory, including dyspnoea, cough, or pharyngitis.
+
+Hypersensitivity reactions may present similarly to pneumonia, bronchitis or pharyngitis, influenza-like illness or gastroenteritis.
+
+Discontinue KIVEXA as soon as a hypersensitivity reaction is suspected.
+If hypersensitivity reaction cannot be ruled out, KIVEXA or any other medicinal product containing abacavir must not be restarted.
+The risk is significantly increased for patients who test positive for the HLA-B*5701 allele. However, abacavir hypersensitivity reactions have been reported at a lower frequency in patients who do not carry this allele.
+KIVEXA is not recommended for use in patients with the HLA-B*5701 allele or in patients who have had a suspected abacavir HSR while taking any medicinal product containing abacavir.
+Testing for HLA-B*5701 status is recommended before initiating abacavir treatment and also before re-starting abacavir treatment in patients of unknown HLA-B*5701 status who have previously tolerated abacavir.
+The diagnosis of hypersensitivity reaction is based on clinical judgment. If a hypersensitivity reaction is suspected, KIVEXA must be stopped without delay, even in the absence of the HLA-B*5701 allele. Delay in stopping treatment with abacavir after the onset of hypersensitivity may result in a life-threatening hypotension and death.
+Rarely, patients who have stopped abacavir for reasons other than symptoms of hypersensitivity reaction have also experienced life-threatening reactions within hours of re-initiating abacavir therapy. Therefore, if a hypersensitivity reaction is ruled out, the reintroduction of KIVEXA or any other abacavir-containing product is recommended only if medical care can be readily accessed.
+Each patient should be reminded to read the Consumer Medicine Information. They should be reminded of the importance of removing the Alert Card included in the pack, and keeping it with them at all times.
+Patients who have experienced a hypersensitivity reaction should be instructed to dispose of their remaining KIVEXA tablets in order to avoid restarting abacavir.
+
+Lactic Acidosis/Severe Hepatomegaly With Steatosis
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of antiretroviral nucleoside analogues alone or in combination, including abacavir and lamivudine in the treatment of HIV infection. A majority of these cases have been in women. Clinical features which may be indicative of the development of lactic acidosis include generalised weakness, anorexia and sudden unexplained weight loss, gastrointestinal symptoms and respiratory symptoms (dyspnoea and tachypnoea). Caution should be exercised when administering KIVEXA tablets, particularly to those with known risk factors for liver disease. Treatment with KIVEXA tablets should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis with or without hepatitis (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
+Fat Loss Or Fat Gain
+Fat loss or fat gain has been reported during combination antiretroviral therapy. The long term consequences of these events are currently unknown. A causal relationship has not been established.
+Serum Lipids And Blood Glucose
+Serum lipid and blood glucose levels may increase during antiretroviral therapy. Disease control and life style changes may also be contributing factors. Consideration should be given to the measurement of serum lipids and blood glucose. Lipid disorders should be managed as clinically appropriate.
+Immune Reconstitution Syndrome
+In HIV-infected patients with severe immune deficiency at the time of initiation of anti-retroviral therapy (ART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise and cause serious clinical conditions, or aggravation of symptoms. Typically, such reactions have been observed within the first few weeks or months of initiation of ART. Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections and Pneumocystis jiroveci pneumonia (often referred to as PCP). Any inflammatory symptoms must be evaluated without delay and treatment initiated when necessary. Autoimmune disorders (such as Graves’ disease, polymyositis and Guillain-Barre syndrome) have also been reported to occur in the setting of immune reconstitution, however, the time to onset is more variable, and can occur many months after initiation of treatment and sometimes can be an atypical presentation.
+Post-Treatment Exacerbations Of Hepatitis B
+Clinical study and marketed use of lamivudine, have shown that some patients with chronic hepatitis B virus (HBV) disease may experience clinical or laboratory evidence of recurrent hepatitis upon discontinuation of lamivudine, which may have more severe consequences in patients with decompensated liver disease. If KIVEXA tablets are discontinued in patients co-infected with hepatitis B virus, periodic monitoring of both liver function tests and markers of HBV replication should be considered.
+Opportunistic Infections
+Patients receiving KIVEXA tablets or any other antiretroviral therapy may still develop opportunistic infections and other complications of HIV infection. Therefore, patients should remain under close clinical observation by physicians experienced in the treatment of these associated HIV diseases.
+Transmission Of Infection
+Patients should be advised that current antiretroviral therapy, including KIVEXA tablets, has not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination. Appropriate precautions should continue to be taken.
+Mitochondrial Dysfunction
+Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage. There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues. The main adverse events reported are haematological disorders (anaemia, neutropenia), metabolic disorders (hyperlactatemia, hyperlipasemia). These events are often transitory. Some late-onset neurological disorders have been reported (hypertonia, convulsion, abnormal behaviour). Whether the neurological disorders are transient or permanent is currently unknown. Any child exposed in utero to nucleoside and nucleotide analogues, even HIV-negative children should have clinical and laboratory follow-up and should be fully investigated for possible mitochondrial dysfunction in case of relevant signs or symptoms. These findings do not affect current national recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
+Myocardial Infarction
+Several observational, epidemiological studies have reported an association with abacavir use and the risk of myocardial infarction. Meta-analyses of randomised controlled trials have observed no excess risk of myocardial infarction with abacavir use. To date there is no established biological mechanism to explain a potential increase in risk. In totality the available data from observational studies and from controlled clinical trials show inconsistency and therefore the evidence for a causal relationship between abacavir treatment and the risk of myocardial infarction is inconclusive.
+As a precaution the underlying risk of coronary heart disease should be considered when prescribing antiretroviral therapies, including abacavir, and action taken to minimize all modifiable risk factors (e.g. hypertension, hyperlipidaemia, diabetes mellitus and smoking).
+General
+KIVEXA should not be taken with any other abacavir or lamivudine containing product (3TC, COMBIVIR, TRIUMEQ, TRIZIVIR, ZEFFIX, ZIAGEN).
+As part of a triple drug-regimen, KIVEXA is generally recommended for use with antiretroviral agents from different pharmacological classes and not solely with other nucleoside/nucleotide reverse transcriptase inhibitors. This is based on results from randomised, double-blind, controlled studies in which the proportion of subjects with early virological failure (for example tenofovir, lamivudine and abacavir or tenofovir, lamivudine and didanosine) was higher in the triple nucleoside groups than in groups who received regimens involving two nucleosides in combination with an agent from a different pharmacological class. However, consideration needs to be given to a number of factors, including compliance, safety, toxicity and preservation of future treatment options, which also remain important when selecting an appropriate antiretroviral combination for a patient.
+Therapy Experienced Patients
+In clinical trials patients with prolonged prior NRTI exposure or who had HIV-1 isolates that contained multiple mutations conferring resistance to NRTIs had limited response to abacavir. The potential for cross-resistance between abacavir or lamivudine and other NRTIs should be considered when choosing new therapeutic regimens in therapy-experienced patients with prolonged prior NRTI exposure, or who have HIV-1 isolates containing multiple mutations conferring resistance to NRTIs (see Section CLINICAL PHARMACOLOGY - Cross-resistance).
+Use In Hepatic Impairment
+See Section Dose And Method Of Administration and Section CLINICAL PHARMACOLOGY - Special populations.
+Use In Renal Impairment
+See Section Dose And Method Of Administration and Section CLINICAL PHARMACOLOGY - Special populations.
+Use In The Elderly
+See Section Dose And Method Of Administration.
+Paediatric Use
+KIVEXA is a fixed combination product not suitable for use in children aged <12 years who weigh less than 40 kg, for whom dosage recommendations vary based on body weight.
+Effects On Laboratory Tests
+See Section ADVERSE REACTIONS - Table 2.
+Use In Specific Populations
+Therapeutic Indications
+KIVEXA tablets are a combination of two nucleoside analogues (abacavir and lamivudine).
+KIVEXA is indicated in antiretroviral combination therapy for the treatment of Human Immunodeficiency Virus (HIV) infection in adults and adolescents from 12 years of age.
+Fertility, Pregnancy And Lactation
+Effects On Fertility
+Abacavir had no adverse effects on the mating performance or fertility of male and female rats at oral doses of up to 427 mg/kg per day, a dose expected to produce exposures approximately 30-fold higher than that in humans at the therapeutic dose based on AUC. Orally administered lamivudine (up to 70 times anticipated clinical exposure based on Cmax) have shown evidence of impairment of fertility in male and female rats.
+There are no data on the affect of abacavir or lamivudine on human female fertility.
+Use In Pregnancy (Category B3)
+There are no adequate and well-controlled studies in pregnant women and the safe use of abacavir, lamivudine or KIVEXA in human pregnancy has not been established. Therefore, administration of KIVEXA in pregnancy should be considered only if the benefit to the mother outweighs the possible risk to the foetus.
+Abacavir has been evaluated in the Antiretroviral Pregnancy Registry. Available human data from the Antiretroviral Pregnancy Registry do not show an increased risk of major birth defects for abacavir compared to the background rate. The Antiretroviral Pregnancy Registry has received prospective reports of over 2,000 exposures to abacavir during pregnancy resulting in live birth. These consist of over 800 exposures during the first trimester, over 1,100 exposures during the second/third trimester and included 27 and 32 birth defects respectively. The prevalence (95% CI) of defects in the first trimester was 3.1% (2.0, 4.4%) and in the second/third trimester, 2.7% (1.9, 3.9%). Among pregnant women in the reference population, the background rate of birth defects is 2.7%. There was no association between abacavir and overall birth defects observed in the Antiretroviral Pregnancy Registry.
+Lamivudine has been evaluated in the Antiretroviral Pregnancy Registry. Available human data from the Antiretroviral Pregnancy Registry do not show an increased risk of major birth defects for lamivudine compared to the background rate. The Antiretroviral Pregnancy Registry has received reports of over 11,000 exposures to lamivudine during pregnancy resulting in live birth. These consist of over 4,200 exposures during the first trimester, over 6,900 exposures during the second/third trimester and included 135 and 198 birth defects respectively. The prevalence (95% CI) of defects in the first trimester was 3.2% (2.6, 3.7%) and in the second/third trimester, 2.8% (2.4, 3.2%). Among pregnant women in the reference population, the background rate of birth defects is 2.7%. The Antiretroviral Pregnancy Registry does not show an increased risk of major birth defects for lamivudine compared to the background rate.
+There is no data available on the treatment with a combination of abacavir, and lamivudine in animals. In reproductive studies in animals, abacavir and lamivudine were shown to cross the placenta.
+Studies in pregnant rats showed that abacavir is transferred to the foetus through the placenta. Developmental toxicity (depressed foetal body weight and reduced crown-rump length) and increased incidences of foetal anasarca and skeletal malformations were observed when rats were treated with abacavir at doses of 648 mg/kg during organogenesis (approximately 35 times the human exposure at the recommended dose, based on AUC). In a fertility study, evidence of toxicity to the developing embryo and foetuses (increased resorptions, decreased foetal body weights) occurred only at 427 mg/kg per day. The offspring of female rats treated with abacavir at 427 mg/kg (beginning at embryo implantation and ending at weaning) showed increased incidence of stillbirth and lower body weights throughout life. In the rabbit, there was no evidence of drug-related developmental toxicity and no increases in foetal malformations at doses up to 453 mg/kg (8.5 times the human exposure at the recommended dose, based on AUC).
+Lamivudine caused an increase in early embryonic deaths in the rabbit at exposures (based on Cmax and AUC) less than the maximum anticipated clinical exposure. Lamivudine was not teratogenic in rats and rabbits with exposure (based on Cmax) up to 40 and 36 times respectively those observed in humans at the clinical dosage.
+There have been reports of mild, transient elevations in serum lactate levels, which may be due to mitochondrial dysfunction, in neonates and infants exposed in utero or peri-partum to nucleoside reverse transcriptase inhibitors (NRTIs). The clinical relevance of transient elevations in serum lactate is unknown. There have also been very rare reports of developmental delay, seizures and other neurological disease. However, a causal relationship between these events and NRTI exposure in utero or peri-partum has not been established. These findings do not affect current recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
+Use In Lactation
+No studies have been carried out to determine the effects of the combination of abacavir and lamivudine in lactating animals.
+Abacavir and its metabolites are excreted into the milk of lactating rats. A study in lactating rats showed that the concentration of lamivudine in milk was more than four times higher than that in maternal plasma.
+Excretion of abacavir and lamivudine in breast milk has been reported in clinical studies, resulting in sub-therapeutic infant plasma levels.
+There is no data available on the safety of abacavir and/or lamivudine administered to babies less than three months old.
+Breast feeding is not advised because of the potential for HIV transmission from mother to child, and the potential risk of adverse events due to antiretroviral drug excretion in breast milk.
+In settings where formula feeding is unsafe or unavailable, the World Health Organisation has provided Guidelines.
+Preclinical Safety Data
+Genotoxicity
+Abacavir was inactive in in vitro tests for gene mutation in bacteria but it showed clastogenic activity against human lymphocytes in vitro and in an in vivo mouse micronucleus test. Abacavir was mutagenic in the absence of metabolic activation, although it was not mutagenic in the presence of metabolic activation in an L5178Y mouse lymphoma assay. Abacavir was not mutagenic in bacterial mutagenicity assays.
+Lamivudine was not active in a microbial mutagenicity screen but did induce mutations at the thymidine kinase locus of mouse lymphoma L5178Y cells without metabolic activation. Lamivudine was clastogenic in human peripheral blood lymphocytes in vitro, with or without metabolic activation. In rats, lamivudine did not cause chromosomal damage in bone marrow cells in vivo or cause DNA damage in primary hepatocytes.
+Carcinogenicity
+There are no data available on the effects of the combination of abacavir and lamivudine in animals.
+Carcinogenicity studies with orally administered abacavir in mice and rats showed an increase in the incidence of malignant and non-malignant tumours. Malignant tumours occurred in the preputial gland of males and the clitoral gland of females of both species, and in the liver, urinary bladder, lymph nodes and the subcutis of female rats. Nonmalignant tumours occurred in the liver of mice and rats, Harderian gland of female mice, and thyroid gland of rats. In rats, there were also increased incidences of urothelial hyperplasia and urinary bladder tumours, associated with increased urinary calculi.
+The majority of these tumours occurred at the highest abacavir dose of 330 mg/kg/day in mice and 600 mg/kg/day in rats. These dose levels were equivalent to 24 to 33 times the expected systemic exposure in humans. The exception was the preputial gland tumour which occurred at a dose of 110 mg/kg. This is equivalent to six times the expected human systemic exposure.
+Mild myocardial degeneration in the heart of mice and rats was observed following administration of abacavir for two years. The systemic exposures were equivalent to 7 to 24 times the expected systemic exposure in humans. The clinical relevance of this finding has not been determined.
+When lamivudine was administered orally to separate groups of rodents at doses up to 2000 times (mice and male rats) and 3000 (female rats) mg/kg/day, there was no evidence of a carcinogenic effect due to lamivudine in the mouse study. In the rat study there was an increased incidence of endometrial tumours at the highest dose (approximately 70 times the estimated human exposure at the recommended therapeutic dose of one tablet twice daily, based on AUC). However, the relationship of this increase to treatment is uncertain.
+
+
+
+
+
+
+
+
+
+
+Overdose Information for Kivexa
+Symptoms And Signs
+No specific symptoms or signs have been identified following acute overdose with abacavir or lamivudine, apart from those listed as Adverse Effects.
+Treatment
+If overdose occurs the patient should be monitored for evidence of toxicity and standard supportive treatment applied as necessary. Since lamivudine is dialysable, continuous haemodialysis could be used in the treatment of overdose, although this has not been studied. It is not known whether abacavir can be removed by peritoneal dialysis or haemodialysis.
+For information on the management of overdose, contact the Poisons Information Centre on 131 126 (Australia).
+Contraindications for Kivexa
+KIVEXA tablets are contra-indicated in patients with known hypersensitivity to abacavir or lamivudine, or to any of the excipients.
+
+
+
+
+
+
+
+
+
+
+
+Clinical Pharmacology for Kivexa
+Mechanism Of Action
+KIVEXA is a fixed dose combination of two nucleoside analogues (abacavir and lamivudine). Abacavir is a carbocyclic synthetic nucleoside analogue of deoxyguanosine-5â€™-triphosphate and lamivudine is also a synthetic nucleoside analogue, an (-) enantiomer of a dideoxy analogue of cytidine. Both abacavir and lamivudine are metabolized sequentially by intracellular kinases to their respective triphosphate (TP), which are the active moieties (carbovir triphosphate (CBV-TP) for abacavir; and lamivudine triphospate Â (L-TP) for lamivudine). Abacavir and lamivudine are nucleoside reverse transcriptase inhibitors (NRTIs), and are potent, selective inhibitors of HIV-1 and HIV-2 replication in vitro. In vitro L-TP has an intracellular half life of approximately 10.5 to 15.5 hours. L-TP and CBV-TP are substrates for and competitive inhibitors of HIV reverse transcriptase (RT). Inhibition of RT is via viral DNA chain termination after nucleoside analogue incorporation. CBV-TP and L-TP show significantly less affinity for host cell DNA polymerases and are weak inhibitors of mammalian α, β and γ-DNA polymerases.
+In a study of 20 HIV-infected patients receiving abacavir 300 mg twice daily, with only one 300 mg dose taken prior to the 24 hours sampling period, the geometric mean terminal carbovir-TP intracellular halflife at steady-state was 20.6 hours, compared to the geometric mean abacavir plasma half-life in this study of 2.6 hours.
+The steady state pharmacokinetic properties of abacavir 600 mg once daily was compared to abacavir 300 mg twice daily in a crossover study in 27 HIV-infected patients. Intracellular carbovir triphosphate exposures in peripheral blood mononuclear cells were higher for abacavir 600 mg once daily with respect to AUC24,ss (32 %, higher), Cmax 24,ss (99% higher) and trough values (18% higher), compared to the 300 mg twice daily regimen.
+For patients receiving lamivudine 300 mg once daily, the terminal intracellular half-life of lamivudine-TP was prolonged to 16 to 19 hours, compared to the plasma lamivudine half-life of 5 to 7 hours.
+The steady state pharmacokinetic properties of lamivudine 300 mg once daily for 7 days compared to lamivudine 150 mg twice daily for 7 days were assessed in a crossover study in 60 healthy volunteers. Intracellular lamivudine triphosphate exposures in peripheral blood mononuclear cells were similar with respect to AUC24,ss and Cmax 24,ss; however, trough values were lower compared to the 150 mg twice daily regimen. Inter subject variability was greater for intracellular lamivudine triphosphate concentrations versus lamivudine plasma trough concentrations. These data support the use of lamivudine 300 mg and abacavir 600 mg once daily for the treatment of HIV-infected patients. Additionally, the efficacy and safety of this combination given once daily has been demonstrated in a pivotal clinical study (see Clinical Trials).
+Pharmacokinetics
+KIVEXA tablets have been shown to be bioequivalent to abacavir and lamivudine administered separately. This was demonstrated in a single dose, three way crossover bioequivalence study of KIVEXA (fasted) versus 2 x 300 mg abacavir tablets plus 2 x 150 mg lamivudine tablets (fasted) versus KIVEXA administered with a high fat meal, in healthy volunteers (n = 25).
+Absorption
+Abacavir and lamivudine are rapidly and well absorbed following oral administration. The absolute bioavailability of oral abacavir and lamivudine in adults is 83 and 80-85% respectively. The mean time to maximal serum concentrations (tmax) is about 1.5 and 1.0 hours for abacavir and lamivudine respectively. Following a single oral dose of 600 mg of abacavir, the mean Cmax is 4.26 μg/mL and the mean AUC∞ is 11.95 μg•h/mL. Following multiple dose oral administration of lamivudine 300 mg once daily for seven days the mean steady state Cmax is 2.04 μg/mL and the mean AUC24 is 8.87 μg•h/mL.
+Effect Of Food On Absorption
+In the fasted state there was no significant difference in the extent of absorption, as measured by the area under the plasma concentration-time curve (AUC) and maximal peak concentration (Cmax), of each component. There was also no clinically significant food effect observed between administration of KIVEXA in the fasted or fed state. These results indicate that KIVEXA can be taken with or without food.
+Distribution
+Intravenous studies with abacavir and lamivudine showed that the mean apparent volume of distribution is 0.8 and 1.3 L/kg respectively. Plasma protein binding studies in vitro indicate that abacavir binds only low to moderately (~ 49%) to human plasma proteins at therapeutic concentrations. Lamivudine exhibits linear pharmacokinetics over the therapeutic dose range and displays low plasma protein binding (< 36%). This indicates a low likelihood for interactions with other medicinal products through plasma protein binding displacement.
+Data show that abacavir and lamivudine penetrate the central nervous system (CNS) and reach the cerebrospinal fluid (CSF). Studies with abacavir demonstrate a CSF to plasma AUC ratio of between 30 to 44%. The observed values of the peak concentrations are 9 fold greater than the IC50 of abacavir of 0.08 μg/mL or 0.26 μM when abacavir is given at 600 mg twice daily. The mean ratio of CSF/serum lamivudine concentrations 2-4 hours after oral administration was approximately 12%. The true extent of CNS penetration of lamivudine and its relationship with any clinical efficacy is unknown.
+Metabolism
+Abacavir is primarily metabolized by the liver with less than 2% of the administered dose being renally excreted as unchanged compound. The primary pathways of metabolism in humans are by alcohol dehydrogenase and by glucuronidation to produce the 5'-carboxylic acid and 5'-glucuronide which account for about 66% of the administered dose. These metabolites are excreted in the urine.
+Metabolism of lamivudine is a minor route of elimination. Lamivudine is predominately cleared unchanged by renal excretion. The likelihood of metabolic interactions with lamivudine is low due to the small extent of hepatic metabolism (< 10%).
+Elimination
+The mean half life of abacavir is about 1.5 hours. Following multiple oral doses of abacavir 300 mg twice a day, there is no significant accumulation of abacavir. Elimination of abacavir is via hepatic metabolism with subsequent excretion of metabolites primarily in the urine. The metabolites and unchanged abacavir account for about 83% of the administered abacavir dose in the urine. The remainder is eliminated in the feces.
+The observed lamivudine half life of elimination is 18 to 19 hours. The mean systemic clearance of lamivudine is approximately 0.32 L/h/kg, predominantly by renal clearance (> 70%) via the organic cationic transport system.
+Special Populations And Conditions
+Pediatrics
+Abacavir is rapidly and well absorbed from oral solution and tablet formulations when administered to children. Plasma abacavir exposure has been shown to be the same for both formulations when administered at the same dose. Children receiving abacavir oral solution according to the recommended dosage regimen achieve plasma abacavir exposure similar to adults. Children receiving abacavir oral tablets according to the recommended dosage regimen achieve higher plasma abacavir exposure than children receiving oral solution because higher mg/kg doses are administered with the tablet formulation. Pediatric pharmacokinetic studies have demonstrated that once daily dosing provides equivalent AUC0-24 to twice daily dosing of the same total daily dose for both oral solution and tablet formulations.
+The absolute bioavailability of lamivudine (approximately 58 to 66%) was lower and more variable in pediatric patients under 12 years of age. In children, administration of tablets delivered higher plasma lamivudine AUC∞ and Cmax than oral solution. Children receiving lamivudine oral solution according to the recommended dosage regimen achieve plasma lamivudine exposure within the range of values observed in adults. Children receiving lamivudine oral tablets according to the recommended dosage regimen achieve higher plasma lamivudine exposure than children receiving oral solution because higher mg/kg doses are administered with the tablet formulation and the tablet formulation has higher bioavailability (see DOSAGE AND ADMINISTRATION). Pediatric pharmacokinetic studies with both oral solution and tablet formulations have demonstrated that once daily dosing provides equivalent AUC0-24 to twice daily dosing of the same total daily dose.
+Hepatic Insufficiency
+Pharmacokinetic data has been obtained for abacavir and lamivudine alone. Abacavir is metabolized primarily by the liver. The pharmacokinetics of abacavir have been studied in patients with mild hepatic impairment (Child-Pugh score 5-6) who had confirmed cirrhosis.
+The results showed that there was a mean increase of 1.89 fold in the abacavir AUC, and 1.58 fold in the half life of abacavir. The AUCs of the metabolites were not modified by the liver disease. However, the rates of formation and elimination of these were decreased. Dosage reduction of abacavir is likely to be required in patients with mild hepatic impairment. The separate preparation of abacavir (ZIAGEN) should therefore be used to treat these patients. The pharmacokinetics of abacavir have not been studied in patients with moderate or severe hepatic impairment. Plasma concentrations of abacavir are expected to be variable and substantially increased in these patients. KIVEXA is therefore contraindicated in patients with hepatic impairment.
+Data obtained in patients with moderate to severe hepatic impairment show that lamivudine pharmacokinetics are not significantly affected by hepatic dysfunction.
+Renal Insufficiency
+Pharmacokinetic data have been obtained for abacavir and lamivudine alone. Abacavir is primarily metabolized by the liver, with approximately 2% of abacavir excreted unchanged in the urine. The pharmacokinetics of abacavir in patients with end stage renal disease is similar to patients with normal renal function. Studies with lamivudine show that plasma concentrations (AUC) are increased in patients with renal dysfunction due to decreased clearance. Dose reduction is required for patients with creatinine clearance of < 30 mL/min; therefore the separate preparation of lamivudine (3TC) should be used to treat these patients.
+Clinical Trials
+Clinical Trials By Indication
+Abacavir and lamivudine have been used as components of antiretroviral combination therapy in naÃ¯ve and experienced patients. Combination therapy has included other antiretroviral agents of the same class or different classes, such as PIs and NNRTIs. Abacavir and lamivudine from KIVEXA (abacavir sulfate/ lamivudine) tablets have been shown to be bioequivalent to abacavir and lamivudine when given separately (see Pharmacokinetics). The clinical efficacy of antiretroviral combination therapy containing abacavir plus lamivudine, administered once or twice daily, has been confirmed in the study below.
+Study Results
+Therapy-Naive Adults
+A once daily regimen of abacavir and lamivudine was investigated in a multi centre, double blind, controlled study (CNA30021) of 770 HIV infected, therapy naÃ¯ve adults. They were randomized to receive either abacavir 600 mg once daily or 300 mg twice daily, both in combination with lamivudine 300 mg once daily and efavirenz 600 mg once daily. Patients were stratified at baseline based on plasma HIV-1 RNA ≤ 100,000 copies/mL or > 100,000 copies/mL. The duration of double blind treatment was at least 48 weeks. The results are summarized in Table 5.
+Table 5 : Virological Response Based on Plasma HIV-1 RNA Less Than 50 copies/mL at Week 48 ITT â€“ Exposed Population (Protocol CNA30021)
+
+
+
+
+Populations
+abacavir once/day + lamivudine + EFV
+			(N = 384)
+abacavir twice/day + lamivudine + EFV
+			(N= 386)
+
+
+Sub-group by baseline RNA
+
+
+< 100,000 copies/mL
+141/217 (65%)
+145/217 (67%)
+
+
+> 100,000 copies/mL
+112/167 (67%)
+116/169 (69%)
+
+
+Total Population
+253/384 (66%)
+261/386 (68%)
+
+
+
+
+
+The abacavir once daily group was demonstrated to be non inferior when compared to the twice daily group in the overall and baseline viral load subgroups.
+Pediatrics
+ARROW (COL105677) was a 5-year, randomized, multi centre trial which evaluated multiple aspects of clinical management of HIV-1 infection in pediatric patients. HIV-1 infected, treatment-naive subjects aged 3 months to 17 years were enrolled and treated with first-line regimen containing 3TC and abacavir, dosed twice daily according to World Health Organization recommendations. After 36 weeks on treatment, subjects were given the option to participate in Randomization 3 of the ARROW trial, comparing the safety and efficacy of once daily with twice daily dosing of 3TC and abacavir, in combination with a third antiretroviral drug for an additional 96 weeks. Subjects randomized to receive once daily dosing (n = 336) and who weighed at least 25 kg received abacavir 600 mg and lamivudine 300 mg, as either the single entities or as KIVEXA. During the treatment period, 104 subjects took KIVEXA for a median duration of 596 days.
+Of the 1206 original subjects enrolled in the study, 669 participated in Randomization 3. Virologic suppression was not a requirement for participation: at baseline (following a minimum of 36 weeks of twice daily treatment), 76% of subjects in the twice daily cohort were virologically suppressed, compared with 71% of subjects in the once daily cohort.
+The proportion of subjects with HIV-1 RNA of less than 80 copies per mL through 96 weeks is shown in Table 6. The differences between virologic responses in the two treatment arms were comparable across baseline characteristics for gender and age.
+Table 6 : Virologic response by HIV-1 RNA Copies Through 96 Weeks (Randomization of abacavir plus lamivudine Once Daily or Twice Daily Dosing - Snapshot Analysis)
+
+
+
+
+
+Twice Daily Dosing
+			N = 333 n (%)
+Once Daily Dosing
+			N= 336 n (%)
+
+
+Week 0 (After ≥36 Weeks on Treatment)
+
+
+Virological Response (<80 copies/mL)
+250 (75)
+237 (71)
+
+
+Risk difference
+-4.5% (95% CI -11.3% to +2.2%)
+
+
+Week 48
+
+
+Virological Response (<80 copies/mL)
+242 (73)
+233 (69)
+
+
+Risk difference
+-3.3% (95% CI -10.2% to +3.5%)
+
+
+Week 96
+
+
+Virological Response (<80 copies/mL)
+232 (70)
+226 (67)
+
+
+Risk difference
+-2.4% (95% CI -9.4% to +4.6%)
+
+
+
+
+
+The abacavir plus lamivudine once daily dosing group demonstrated non-inferiority to the twice daily group according to the pre-specified non-inferiority margin of -12%, for the primary endpoint of <80 c/mL at Week 48 and including Week 96 (the secondary endpoint) all other thresholds tested (<200c/mL, <400c/mL, <1000c/mL). Virologic outcomes between treatment arms were comparable across baseline characteristics (gender, age, or viral load at randomization).
+Microbiology
+In Vitro Activity
+Abacavir
+The in vitro anti-HIV-1 activity of abacavir was evaluated against a T-cell tropic laboratory strain HIV-1 IIIB in lymphoblastic cell lines, a monocyte/macrophage tropic laboratory strain HIV-1 BaL in primary monocytes/macrophages and clinical isolates in peripheral blood mononuclear cells. The concentration of drug necessary to inhibit viral replication by 50 percent (IC50) ranged from 3.7 to 5.8 μM against HIV-1 IIIB, and was 0.26 ± 0.18 μM (1 μM = 0.28 μg/mL) against eight clinical isolates. The IC50 of abacavir against HIV-1 BaL varied from 0.07 to 1.0 μM. The antiviral activity of abacavir in cell culture was not antagonized when combined with the nucleoside reverse transcriptase inhibitors (NRTIs) didanosine, emtricitabine, lamivudine, stavudine, tenofovir, zalcitabine or zidovudine, the non-nucleoside reverse transcriptase inhibitor (NNRTI) nevirapine, or the protease inhibitor (PI) amprenavir.
+Lamivudine
+The antiviral activity of lamivudine has been studied in combination with other antiretroviral compounds using HIV-1 infected MT-4 cells as the test system. No antagonistic effects were seen in vitro with lamivudine and other antiretrovirals (tested agents: abacavir, didanosine, nevirapine, zalcitabine, and zidovudine).
+Abacavir And Lamivudine
+The antiviral activity of an equimolar mixture of abacavir and lamivudine in cell culture was not antagonized when combined with the nucleoside reverse transcriptase inhibitors (NRTIs) didanosine, emtricitabine, lamivudine, stavudine, tenofovir, zalcitabine or zidovudine, the non-nucleoside reverse transcriptase inhibitors (NNRTIs) nevirapine, delavirdine or efavirenz, or the protease inhibitors (PIs) amprenavir, indinavir, ritonavir, lopinavir, nelfinavir or saquinavir.
+Drug Resistance
+Abacavir
+Abacavir resistant isolates of HIV-1 have been selected in vitro and are associated with specific genotypic changes in the RT codon region (codons M184V, K65R, L74V and Y115F). Viral resistance to abacavir develops relatively slowly in vitro and in vivo, requiring multiple mutations to reach an eight fold increase in IC50 over wild type virus, which may be a clinically relevant level. The mutations selected by in vitro passage have also been observed among isolates obtained from patients participating in clinical trials, with L74V and M184V being the most common. Combination therapy with ZIAGEN (abacavir sulfate) and zidovudine delays the emergence of mutations associated with resistance to ZIAGEN compared with monotherapy with ZIAGEN.
+Lamivudine
+In nonclinical studies, lamivudine resistant isolates of HIV have been selected in vitro.
+A known mechanism of lamivudine resistance is the change in the 184 amino acid of RT from methionine to either isoleucine or valine. In vitro studies indicate that zidovudine resistant viral isolates can become sensitive to zidovudine when they acquire the 184 mutation. The clinical relevance of such findings remains, however, not well defined.
+For isolates collected in clinical studies, phenotypic resistance data showed that resistance to lamivudine monotherapy developed within 12 weeks. Evidence in isolates from antiretroviral-naÃ¯ve patients suggests that the combination of lamivudine and zidovudine delays the emergence of mutations conferring resistance to zidovudine. Combination therapy with lamivudine plus zidovudine did not prevent phenotypic resistance to lamivudine. However, phenotypic resistance to lamivudine did not limit the antiretroviral activity of combination therapy with lamivudine plus zidovudine. In antiretroviral therapy-naÃ¯ve patients, phenotypic resistance to lamivudine emerged more slowly on combination therapy than on lamivudine monotherapy. In the zidovudine experienced patients on lamivudine plus zidovudine, no consistent pattern of changes in phenotypic resistance to lamivudine or zidovudine was observed.
+Cross-Resistance
+Cross resistance between abacavir or lamivudine and antiretrovirals from other classes (e.g. protease inhibitors (PI) or non-nucleoside reverse transcriptase inhibitors (NNRTIs)), is unlikely. Reduced susceptibility to abacavir has been demonstrated in clinical isolates of patients with uncontrolled viral replication, who have been pre-treated with and are resistant to other nucleoside inhibitors.
+Clinical isolates with three or more mutations associated with NRTIs are unlikely to be susceptible to abacavir. Cross resistance conferred by the M184V RT is limited within the nucleoside inhibitor class of antiretroviral agents. Zidovudine, stavudine, abacavir and tenofovir maintain their antiretroviral activities against lamivudine-resistant HIV-1 harbouring only the M184V mutation.
+In vitro isolates resistant to abacavir might also show reduced sensitivity to lamivudine, zalcitabine, tenofovir, emtricitabine and/or didanosine, but remain sensitive to zidovudine and stavudine.
+Observed During Clinical Trial
+A once daily regimen of abacavir and lamivudine was investigated in a multi centre, double blind, controlled study (CNA30021) of 770 HIV-infected, therapy naÃ¯ve adults. They were randomized to receive either abacavir 600 mg once daily or 300 mg twice daily, both in combination with lamivudine 300 mg once daily and efavirenz 600 mg once daily. Patients were stratified at baseline based on plasma HIV-1 RNA ≤ 100,000 copies/mL or > 100,000 copies/mL. The duration of double blind treatment was at least 48 weeks.
+Genotypic analysis was attempted for all subjects with virologic failure (confirmed HIV RNA > 50 copies/mL). There was a low overall incidence of virologic failure in both the once and twice daily treatment groups (10 and 8% respectively). Additionally, for technical reasons, genotyping was restricted to samples with plasma HIV-1 RNA > 500 copies/mL. These factors resulted in a small sample size. Therefore, no firm conclusions could be drawn regarding differences in treatment emergent mutations between the two treatment groups. Reverse transcriptase amino acid residue 184 was consistently the most frequent position for NRTI resistance associated mutations (M184V or M184I). The second most frequent mutation was L74V. Mutations Y115F and K65R were uncommon.
+Cytotoxicity
+The results of cytotoxicity studies in various assays have shown little cytotoxic action with lamivudine. Cytotoxicity of lamivudine was compared with that of zidovudine, zalcitabine, and didanosine in four Tlymphoblastoid cell lines; one monocyte/macrophage-like cell line; one B-lymphoblastoid cell line; and peripheral blood lymphocytes (PBLs) using both cell proliferation (CP) and [3H]-thymidine uptake (Td) assays. In the CP assay, lamivudine was the least toxic of the four compounds.
+[3H]-thymidine uptake results demonstrated a similar trend to those from the CP assays. Lamivudine had no cytotoxic effect when incubated for 10 days with phytohemagglutinin (PHA)-activated human lymphocytes or human macrophages.
+The cytotoxicity of combinations of lamivudine with zidovudine, zalcitabine, or didanosine was evaluated in PHA-activated PBLs and CEM cells by measuring cellular uptake of [3H]-thymidine. Lamivudine greatly reduced the cytotoxicity of zalcitabine, slightly reduced the cytotoxicity of zidovudine in some cases, and did not alter the cytotoxicity of didanosine.
+In myelotoxicity studies in vitro, lamivudine demonstrated no toxic effects against erythroid, granulocyte-macrophage, pluripotent, or stromal progenitor cells from healthy human donors. Lamivudine was not toxic to human hematopoietic supportive stroma, nonadherent hematopoietic cells, or stromal fibroblasts and produced minimal changes in cytokine (GM-CSF) production from mitogen stimulated bone marrow stromal cells. Lamivudine was less toxic than zidovudine, zalcitabine, ara-C, 3FT, and stavudine in these studies. In another study, lamivudine was not toxic to activated human Tcells.
+Nonclinical Toxicology
+With the exception of a negative in vivo rat micronucleus test, there are no data available on the effects of the combination of abacavir and lamivudine in animals.
+Acute Toxicity
+Acute toxicity studies with abacavir and lamivudine have been performed in the mouse and rat.
+Abacavir
+Single oral or intravenous dose acute toxicity studies in the mouse and rat revealed no significant effects. The maximum non-lethal oral dose of abacavir in the mouse and rat was at least 100 and 115 fold greater, respectively, than the maximum intended therapeutic dose in humans of 300 mg b.i.d. (12 mg(base)/kg/day for a 50 kg person).
+Lamivudine
+The acute oral administration of very high doses of lamivudine (two doses of 2,000 mg/kg) in mice was associated with transient increases in sexual activity in males and general activity in males and females. There were no deaths and no evidence of target organ toxicity. Therefore the maximum non-lethal oral dose of lamivudine in mice is greater than two doses of 2,000 mg/kg.
+The acute intravenous administration of lamivudine at 2,000 mg/kg was well tolerated by both mice and rats and was not associated with any target organ toxicity. A number of non-specific clinical signs were observed which were more severe in rats but were all of relatively short duration.
+Long-Term Toxicity
+Abacavir
+Repeated oral administration of abacavir succinate to mice at 330 mg/kg/day for up to 6 months, and to monkeys at 300 mg/kg/day for up to 52 weeks, or abacavir sulfate to rats at 530 mg/kg/day for up to 3 months, resulted in few changes which were mostly reversible.
+The only consistent findings in rodents and monkeys were changes in the liver. Increases in liver weights seemed to be dose related in the monkey. Slight increases in serum alanine aminotransferase and triglycerides were also observed in monkeys. Microscopically, slight centrilobular hepatocellular hypertrophy was seen in these animal species. In high dose monkeys, slightly swollen mitochondria, a decrease in the amount of rough endoplasmic reticulum and an increase in the number of lysosomes were observed using electron microscopy. Occasional individual cell necrosis, pigment deposits in centrilobular hepatocyte and Kupffer cells were seen in mice and rats. Additional changes observed in toxicity studies included slight alterations in cholesterol, albumin and/or total protein in mice and/or rats and transient reductions in hematology parameters in monkeys. Clinical observations of toxicity (including emesis, hunched posture, hypoactivity, decreased appetite, and abnormal feces) occurred in monkeys administered high doses of abacavir daily for 12 months.
+Lamivudine
+In repeat dose toxicity studies, lamivudine was very well tolerated in the rat at oral doses up to 2,000 mg/kg b.i.d. for 6 months. Treatment related effects were restricted to minor hematological (mainly red cell parameters), clinical chemistry and urinalysis changes, and the mucosal hyperplasia of the cecum (in the 6 month study). The no (toxicologically important) effect level was 450 mg/kg b.i.d.
+In the dog, oral doses of lamivudine 1,500 mg/kg b.i.d. in males and 1,000 mg/kg b.i.d. in females for a period of 12 months were well tolerated. Treatment related changes included reductions in red cell counts at all dose levels, associated with increased MCV and MCH, and reductions in total leucocyte, neutrophil and lymphocyte counts in high-dose animals, but with no effect on bone marrow cytology. Deaths were seen in females dosed with 1,500 mg/kg b.i.d. in a 3 month study but not in a 12 month study, using a dose of 1,000 mg/kg b.i.d.
+When administered orally for one month, at a dose of 1,000 mg/kg b.i.d., lamivudine demonstrated low hematotoxic potential in the mouse, and did not significantly enhance the hematotoxicity of zidovudine or interferon α.
+Carcinogenicity And Mutagenicity
+Neither abacavir nor lamivudine was mutagenic in bacterial tests, but like many nucleoside analogues they show activity in the in vitro mammalian tests such as the mouse lymphoma assay. This is consistent with the known activity of other nucleoside analogues.
+Abacavir induced chromosomal aberrations both in the presence and absence of metabolic activation in an in vitro cytogenetic study in human lymphocytes. Abacavir was mutagenic in the absence of metabolic activation, although it was not mutagenic in the presence of metabolic activation in an L5178Y mouse lymphoma assay. At systemic exposures approximately nine times higher than those in humans at the therapeutic dose, abacavir was clastogenic in males and not clastogenic in females in an in vivo mouse bone marrow micronucleus assay.
+Abacavir was not mutagenic in bacterial mutagenicity assays in the presence and absence of metabolic activation.
+Abacavir And Lamivudine In Combination
+The results of an in vivo rat micronucleus test with abacavir and lamivudine in combination were negative. For each compound at the maximum dose (2000 mg/kg) mean systemic exposures were Cmax: 75 and 28 μg/mL and AUC: 1185 and 377 μg.h/mL for abacavir and lamivudine, respectively.
+Abacavir
+Carcinogenicity studies with orally administered abacavir in mice and rats showed an increase in the incidence of malignant and non-malignant tumours. Malignant tumours occurred in the preputial gland of males and the clitoral gland of females of both species, and in the liver, urinary bladder, lymph nodes and the subcutis of female rats.
+The majority of these tumours occurred at the highest abacavir dose of 330 mg/kg/day in mice and 600 mg/kg/day in rats. These dose levels were equivalent to 24 to 33 times the expected systemic exposure in humans. The exception was the preputial gland tumour which occurred at a dose of 110 mg/kg. This is equivalent to six times the expected human systemic exposure. There is no structural counterpart for this gland in humans.
+Reductions in survival and body weight in rats at 600 mg/kg/day resulted in the early discontinuation of dosing in Weeks 84 (males) and 100 (females). Survival in mice was also reduced at 330 mg/kg/day, resulting in the early discontinuation of dosing of males in Week 98.
+While the carcinogenic potential in humans is unknown, these data suggest that a carcinogenic risk to humans is outweighed by the potential clinical benefit.
+Mild myocardial degeneration in the heart of mice and rats was observed following administration of abacavir for two years. The systemic exposures were equivalent to 7 to 24 times the expected systemic exposure in humans. The clinical relevance of this finding has not been determined.
+In an in vitro cytogenetic study performed in human lymphocytes, abacavir induced chromosomal aberrations following exposure at 2,800 and 3,200 μg/mL for 3 hours in the presence of metabolic activation and after exposure at 100 and 125 μg/mL for 50.3 hours in the absence of metabolic activation. The abacavir concentrations at which evidence of genotoxicity was seen in vitro were at least 33 times higher than the expected maximum human blood level.
+In an in vivo mouse bone marrow micronucleus test, there was a small (2.3 fold) increase in the number of micronucleated polychromatic erythrocytes in males at 1,000 mg/kg. No significant increase was seen in bone marrow harvested from females. Findings in the micronucleus test were seen at systemic exposures (in terms of AUC) approximately nine times higher than exposure in humans at the therapeutic dose, and Cmax values approximately 14 times higher than the maximum concentration in humans at the therapeutic dose.
+No evidence of mutagenicity (with or without metabolic activation) was observed in bacterial mutagenicity assays at concentrations up to approximately 5,000 μg/plate. In a mutagenicity assay conducted in L5178Y mouse lymphoma cells, abacavir was weakly mutagenic following exposure at 250 μg/mL for 24 hours in the absence of metabolic activation. Abacavir was not mutagenic to L5178Y mouse lymphoma cells in a 3 hour exposure in the presence or absence of metabolic activation.
+Lamivudine
+Traditional 24 month carcinogenicity studies using lamivudine have been conducted in mice and rats at exposures up to 10 times (mice) and 58 times (rats) those observed in humans at recommended therapeutic doses. The following results should be noted. In mice, there appeared to be an increased incidence of histiocytic sarcoma in female mice treated with 180 mg/kg/day (6 of 60 mice) and 2,000 mg/kg/day (5 of 60 mice) when compared to control mice (two control groups with 1 of 60 and 2 of 60 mice). There did not appear to be an increased incidence in histiocytic sarcoma in female mice treated with 600 mg/kg/day (3 of 60 mice). It should be noted that the control incidence of this type of tumour in this strain of mice can be as high as 10%, similar to that found in the 180 and 2,000 mg/kg/day groups. In rats, there appeared to be an increased incidence of endometrial epithelial tumours in female rats treated with 3,000 mg/kg/day (5 of 55 rats) when compared to control rats (two control groups, each with 2 of 55 rats). There did not appear to be an increased incidence for endometrial tumours in rats treated with 1,000 mg/kg/day (2 of 55 rats) or 300 mg/kg/day (1 of 55 rats). It should be noted that there did not appear to be an increased incidence of any proliferative, nonneoplastic, epithelial lesions in treated female rats when compared to control rats, and the incidence of adenocarcinoma (5/55 or 9%) was only slightly higher than recorded controls at the laboratory where the study was conducted (4/50 or 8%). The statistical significance of the findings in mice and rats varied with the statistical analysis conducted, and therefore, the statistical and hence, the clinical significance of these findings are uncertain.
+However, based on the similarity to historical control data, it was concluded that the results of long term carcinogenicity studies in mice and rats for lamivudine did not seem to show a carcinogenic potential relevant for humans.
+Lamivudine was not active in a microbial mutagenicity screen or an in vitro cell transformation assay, but showed weak in vitro mutagenic activity in a cytogenetic assay using cultured human lymphocytes and in the mouse lymphoma assay. However, lamivudine showed no evidence of in vivo genotoxic activity in the rat at oral doses of up to 2,000 mg/kg (approximately 65 times the recommended human dose based on body surface area comparisons).
+Reproduction And Teratology
+In reproductive toxicity studies in animals, abacavir and lamivudine were shown to cross the placenta. Fertility studies in the rat have shown that abacavir and lamivudine had no effect on male or female fertility.
+Abacavir
+Abacavir had no adverse effects on the mating performance or fertility of male and female rats at doses of up to 500 mg/kg/day.
+Reproduction studies were performed in rats and rabbits at orally administered doses up to 1,000 mg/kg/day and 700 mg/kg/day, respectively. These doses in rats and rabbits achieved approximately 35 and 8.5 times, respectively, the exposure associated with the recommended human dose. In the rat, development toxicity (depressed fetal body weight and reduced crown-rump length) and increased incidences of fetal anasarca and skeletal malformations were observed at the highest dose assessed. Studies in pregnant rats showed that abacavir is transferred to the fetus through the placenta. In a fertility study, evidence of toxicity to the developing embryo and fetuses (increased resorptions, decreased fetal body weights) occurred only at 500 mg/kg/day, a dose that was toxic to the parental generation. The offspring of female rats treated with abacavir at 500 mg/kg (beginning at embryo implantation and ending at weaning) showed increased incidence of stillbirth and lower body weights throughout life.
+This dose in rats achieved approximately 33 times the exposure with the usual human dose. In the rabbit, there was no evidence of drug related developmental toxicity and no increases in fetal malformations, at doses up to 700 mg/kg (8.5 times the human exposure at the recommended dose, based on AUC).
+Lamivudine
+A range of studies have been performed to assess the effects of repeated oral administration of lamivudine upon mammalian reproduction and development.
+In a rat fertility study, except for a few minor changes in high dose (2,000 mg/kg b.i.d.) animals, the overall reproductive performance of the F0 and F1 generation animals, and the development of the F1 and F2 generation, was unaffected by treatment with lamivudine.
+Lamivudine was not teratogenic in the rat or rabbit, at doses up to 2,000 mg/kg b.i.d. and 500 mg/kg b.i.d., respectively. In the rabbit a slight increase in the incidence of pre-implantation loss at doses 20 mg/kg b.i.d. and above indicates a possible early embryolethal effect. There was no such effect in the rat. These marginal effects occurred at relatively low doses, which produced plasma levels comparable to those achieved in patients.
+In a peri-/post-natal/juvenile toxicity study in rats, some histological inflammatory changes at the anorectal junction and slight diffuse epithelial hyperplasia of the cecum were observed in dams and pups at the high-dose level. An increased incidence of urination upon handling was also seen in some offspring receiving 450 or 2,000 mg/kg. In addition, a reduction in testes weight was observed in juvenile males at 2,000 mg/kg which was associated with slight to moderate dilatation of the seminiferous tubules.
+Supporting Product Monographs
+1. 3TC (tablets, 300 mg and 150 mg; oral solution, 10 mg/mL; lamivudine), submission control #226212, Product Monograph, ViiV Healthcare ULC. (July 3, 2019)
+2. ZIAGEN (tablets, 300 mg; oral solution 20 mg/ml; abacavir), submission control #243476 Product Monograph, ViiV Healthcare ULC. (January 20, 2021)
+READ THIS FOR SAFE AND EFFECTIVE USE OF YOUR MEDICINE
+
+
+
+
+
+
+
+
+
+
+Patient Information for Kivexa
+No information provided.  Please refer to the WARNINGS and PRECAUTIONS sections.
+
+
+
+
